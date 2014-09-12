@@ -27,3 +27,9 @@
 h4, h5, p, ul, li {@extend .Quicksand; font-weight:400; font-size:1.2em;}
 
 .full-width {width:100%; height:auto;}
+
+.margin-top-25 {margin-top:25px;}
+.margin-top-50 {margin-top:50px;}
+.padding-bottom-100 {padding-bottom:100px;}
+
+.content {@extend .margin-top-50;}

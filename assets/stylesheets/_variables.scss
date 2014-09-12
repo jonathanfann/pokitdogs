@@ -30,7 +30,7 @@ $gray-lighter:           lighten(#000, 93.5%) !default; // #eee
 $brand-primary:         #428bca !default;
 $brand-success:         #5cb85c !default;
 $brand-info:            #5bc0de !default;
-$brand-warning:         #f0ad4e !default;
+$brand-warning:         #ED9348;
 $brand-danger:          #d9534f !default;
 
 
@@ -371,9 +371,9 @@ $navbar-default-link-disabled-color:       #ccc !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
-$navbar-default-brand-color:               #000;
+$navbar-default-brand-color:               #5F275E;
 $navbar-default-brand-hover-color:         #fff !default;
-$navbar-default-brand-hover-bg:            lighten($navbar-default-brand-color, 30%) !default;
+$navbar-default-brand-hover-bg:            lighten($navbar-default-brand-color, 5%) !default;
 
 // Navbar toggle
 $navbar-default-toggle-hover-bg:           #ddd !default;
