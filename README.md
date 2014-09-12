@@ -1,8 +1,8 @@
 Basic Site For the World's Greatest PokitDogs
 ================
 
-Created by Jonathan Fann
+Created by [Jonathan Fann](http://www.jonathanfanndesign.com).
 
-[Take this site for a spin.](http://little-dogs.legendofchin97.mixture.io/)
+View a [demo](http://little-dogs.legendofchin97.mixture.io/).
 
 Based on the [Bootstrap-Sass 3.2 Boilerplate](www.kikedomingo.com).
