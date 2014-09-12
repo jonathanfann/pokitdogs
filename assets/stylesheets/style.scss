@@ -1,0 +1,29 @@
+/**************************************/
+/* BTS IMPORT */
+@import "bootstrap";
+/* /BTS IMPORT */
+/**************************************/
+
+
+#wrapper {
+	margin-top: 70px;
+}
+
+
+/**************************************/
+/* MEDIA QUERIES */
+@import "mediaqueries";
+/* /MEDIA QUERIES */
+/**************************************/
+
+// Custom Begins Here...
+
+@import url(http://fonts.googleapis.com/css?family=Quicksand:300,400,700);
+
+.Quicksand {font-family:Quicksand, san-serif;}
+
+.navbar-brand, h1, h2, h3 {@extend .Quicksand; font-weight:700; font-size:2.5em;}
+
+h4, h5, p, ul, li {@extend .Quicksand; font-weight:400; font-size:1.2em;}
+
+.full-width {width:100%; height:auto;}
