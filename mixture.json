@@ -7,7 +7,7 @@
     "preprocessorScriptOutput": "app/js",
     "preprocessorStyleOutput": "app/css",
     "projectName": "little-dogs",
-    "projectDescription": "Little Dog Homework",
+    "projectDescription": "PokitDogs",
     "publishedId": "17382",
     "serverHostname": null,
     "serverPort": null,
@@ -19,7 +19,7 @@
     "simpleModePartnerServer": null,
     "simpleModeFileTypes": null,
     "modelSource": null,
-    "domain": null,
+    "domain": "pokitdogs.jonathanfanndesign.com",
     "convertHtml": {
         "path": null,
         "extension": ".html",
